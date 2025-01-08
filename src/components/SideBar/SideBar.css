@@ -1,0 +1,7 @@
+.sidebar_container{
+    height: 101vh;
+    
+}
+.sidebar_container::-webkit-scrollbar{
+    display: none;
+}
